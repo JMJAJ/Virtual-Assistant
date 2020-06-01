@@ -102,6 +102,7 @@ void help()
     cout << "     Commands:\n\t - help: contact me on my e-mail " + mail << endl;
     cout << "\t - end: end program" << endl;
     cout << "\t - play: play song [Easte eggs - (intro, gay)]" << endl;
+    cout << "\t - ip: find your local IP Address" << endl;
     repeat();
 }
 
