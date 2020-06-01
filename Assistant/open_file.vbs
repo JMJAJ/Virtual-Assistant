@@ -1,0 +1,1 @@
+Set Sapi = Wscript.CreateObject("SAPI.SpVoice") Sapi.speak "Wait few seconds..."

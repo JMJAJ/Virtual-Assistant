@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591038043 source:c:\users\brudy\desktop\sublime text\c++\assistant\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
